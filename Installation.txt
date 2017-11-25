@@ -1,0 +1,39 @@
+pre-requisite:
+1. nodejs
+https://nodejs.org/en/
+node -v
+
+
+Enterprise App
+
+UI + Server Side Programming + DB
+
+
+Angular + (.Net/ Java / NodeJS /PHP / Python) + (Mongo + sql + Oracle)
+
+HTML + CSS 
+
+2. npm 
+
+3. Editor / IDE
+https://code.visualstudio.com/
+
+4. Typescript
+npm install -g typescript
+
+
+What:
+created in 2011
+
+features:
+es5
+
+es6 - ECMA2015
+it is superset of javascript.
+ease to migrate our code in any js version available.
+
+
+5. Angular CLI
+
+npm install -g @angular/cli@latest
+

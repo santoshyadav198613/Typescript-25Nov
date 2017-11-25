@@ -1,0 +1,30 @@
+features:
+es5
+
+es6 - ECMA2015
+it is superset of javascript.
+ease to migrate our code in any js version available.
+Type safety.
+Transpiler :
+transforms: file to javascript
+compiles: javascripts code to use best practices
+
+
+to compile:
+
+use tsc <filename>
+
+Modules:
+All ts/js files are modules.
+
+To use a class we need to use import
+The class which want to share should use export.
+
+
+To create typescript config file:
+1. tsc -init // to create a config file.
+
+To create a task:
+1. Tasks -> Configure Default Build Task
+2. use watch mode
+3. tasks -> Run build task
