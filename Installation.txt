@@ -37,3 +37,5 @@ ease to migrate our code in any js version available.
 
 npm install -g @angular/cli@latest
 
+And run:
+1. ng new <App_name>
